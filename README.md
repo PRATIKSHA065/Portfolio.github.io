@@ -74,7 +74,7 @@ Reduces fuel consumption and recycles waste into energy sources like biogas.
 - *SRN*: 02FE23BCI045
 - *Course Instructor*:Dr. Priyanka Gavade  
 - *University*:KLE TECHNOLOGICAL UNIVERSITY
- - *Topic*: Smart Waste Management System.
+ - *Topic*: Smart Waste Management System
 ---
 
 ## 🎨 What Drives Me  
