@@ -80,7 +80,8 @@ Reduces fuel consumption and recycles waste into energy sources like biogas.
 ## 🎨 What Drives Me  
 - 💻 Constantly exploring new technologies and applying them creatively.
 - 🤝 Helping others grow while improving myself every day.  
-- 📈 Learning new skills in my engineering experience.  
+- 📈 Learning new skills in my engineering experience.
+  
 ---
 
 This portfolio showcases my commitment to pushing boundaries and creating solutions that matter. 
