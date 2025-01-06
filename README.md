@@ -80,7 +80,7 @@ Creates jobs and revenue streams through recycling and composting industries.
 - *SRN*: 02FE23BCI045
 - *Course Instructor*:Dr. Priyanka Gavade  
 - *University*:KLE TECHNOLOGICAL UNIVERSITY
- - *Topic*: Smart Waste Management System
+ - *Topic*: smart waste management system
 ---
 
 ## 🎨 What Drives Me  
