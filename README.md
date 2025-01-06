@@ -19,37 +19,32 @@ Algorithms: Dijkstra’s, A*, Rabin Karp, Kruskal's, Graph Traversal (DFS/BFS)
 Tools: Graphs, DAA Optimization Techniques
 
 *Impact:*
-1. Environmental Benefits
-
+1. Environmental Benefits:
 Reduces landfill waste, emissions, and promotes recycling for a cleaner environment.
 
-2. Cost Efficiency
 
+2. Cost Efficiency:
 Optimizes collection routes and reduces operational and maintenance costs.
 
-3. Public Health Improvement
 
+3. Public Health Improvement:
 Minimizes risks of disease by ensuring proper waste disposal and cleanliness.
 
-4. Community Engagement
 
+5. Community Engagement:
 Encourages citizen participation through apps, incentives, and educational campaigns.
 
-5. Resource Recovery
 
+7. Resource Recovery:
 Enhances recycling and energy recovery from waste materials.
 
-6. Technological Advancements
 
+9. Technological Advancements:
 Leverages IoT, AI, and data analytics for efficient waste management.
 
-7. Energy Conservation
 
+11. Energy Conservation:
 Reduces fuel consumption and recycles waste into energy sources like biogas.
-
-8. Economic Growth
-
-Creates jobs and revenue streams through recycling and composting industries.
 
 ## 🚀 Skills  
 
