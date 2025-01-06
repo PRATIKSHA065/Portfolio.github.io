@@ -11,8 +11,7 @@ Here's a glimpse into my journey:
 ### *Smart Waste Management System* 
 
 *OVERVIEW:* 
-Smart waste management is about using technology and data to create a more efficient waste industry. Based on IoT (Internet of Things) technology, 
-smart waste management aims to optimize resource allocation, reduce running costs, and increase the sustainability of waste services.
+Smart waste management is about using technology and data to create a more efficient waste industry. Based on IoT (Internet of Things) technology,smart waste management aims to optimize resource allocation, reduce running costs, and increase the sustainability of waste services.
 
 *Technical Stack:* 
 Languages: C++, Java
@@ -67,7 +66,7 @@ Creates jobs and revenue streams through recycling and composting industries.
 
 ## Portfolio Highlights
 
-### 🎯 *Topic:* Smart Waste Management System
+### 🎯 *Topic:*Smart Waste Management System
 
 - DAA (Design and Analysis of Algorithms)  
 - Focus: Algorithmic Problem Solving for smart waste management system
@@ -80,7 +79,7 @@ Creates jobs and revenue streams through recycling and composting industries.
 - *SRN*: 02FE23BCI045
 - *Course Instructor*:Dr. Priyanka Gavade  
 - *University*:KLE TECHNOLOGICAL UNIVERSITY
- - *Topic*: smart waste management system
+ - *Topic*: Smart Waste Management System
 ---
 
 ## 🎨 What Drives Me  
