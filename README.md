@@ -70,7 +70,7 @@ Creates jobs and revenue streams through recycling and composting industries.
 ### 🎯 *Topic:* Smart Waste Management System
 
 - DAA (Design and Analysis of Algorithms)  
-- Focus: Algorithmic Problem Solving for smart waste management
+- Focus: Algorithmic Problem Solving for smart waste management system
 
 ### 📋 *Details:*
 
