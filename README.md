@@ -70,7 +70,7 @@ Creates jobs and revenue streams through recycling and composting industries.
 ### 🎯 *Topic:* Smart Waste Management System
 
 - DAA (Design and Analysis of Algorithms)  
-- Focus: Algorithmic Problem Solving for smart waste management system 
+- Focus: Algorithmic Problem Solving for smart waste management
 
 ### 📋 *Details:*
 
@@ -80,7 +80,7 @@ Creates jobs and revenue streams through recycling and composting industries.
 - *SRN*: 02FE23BCI045
 - *Course Instructor*:Dr. Priyanka Gavade  
 - *University*:KLE TECHNOLOGICAL UNIVERSITY
-  - *Topic*: Smart Waste Management System
+ - *Topic*: Smart Waste Management System
 ---
 
 ## 🎨 What Drives Me  
