@@ -1,5 +1,4 @@
 ## *Portfolio*
-
 ### Hello, I'm Pratiksha 👋
 
 I am passionate about leveraging technology to solve real-world problems and making an impact through creative solutions. 
@@ -66,7 +65,7 @@ Creates jobs and revenue streams through recycling and composting industries.
 
 ## Portfolio Highlights
 
-### 🎯 *Topic:*Smart Waste Management System
+### 🎯 *Topic:*Smart-Waste Management System
 
 - DAA (Design and Analysis of Algorithms)  
 - Focus: Algorithmic Problem Solving for smart waste management system
@@ -79,7 +78,7 @@ Creates jobs and revenue streams through recycling and composting industries.
 - *SRN*: 02FE23BCI045
 - *Course Instructor*:Dr. Priyanka Gavade  
 - *University*:KLE TECHNOLOGICAL UNIVERSITY
- - *Topic*: Smart Waste Management System
+ - *Topic*: Smart Waste Management System.
 ---
 
 ## 🎨 What Drives Me  
